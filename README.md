@@ -12,7 +12,7 @@ In order to reuse and recycle the parcels in Bosch supply chain with low cost an
 </ol>
 
 <b>You can have a overview about our IoT solution in this demo video </b></br>
-[IoT Solution demo](https://www.bilibili.com/video/av37182454/)
+[IoT Solution demo](https://youtu.be/K9yCRJZEnrY)
 
 Below is the main process of manufacturing supply chain based on IoT recirculation model.</br>
 <img src="https://github.com/XinjieInformatik/IoT-Solution-Bosch/blob/master/pic/business_process.PNG" alt="business_process"/> </br></br></br>
